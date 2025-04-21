@@ -3,7 +3,7 @@ const chalk = require('chalk');
 const readline = require('readline');
 
 // Cấu hình base URL
-const BASE_URL = 'http://localhost:5000'; // Node.js Gateway
+const BASE_URL = 'https://phongthuybotbackend.onrender.com'; // Node.js Gateway
 // const BASE_URL = 'http://localhost:8000'; // Python ADK Service
 
 const rl = readline.createInterface({
